@@ -40,10 +40,9 @@ A responsive and interactive **To-Do List** application built using **HTML**, **
 
 ---
 
-```markdown
-## 📂 Project Structure
+## 📁 Project Structure
 
-ToDoList-App/
-├── index.html
-├── style.css
-├── script.js
+ToDoList-WebApp/  
+├── ToDoList.html  
+├── ToDoList.css  
+└── ToDoList.js
