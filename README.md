@@ -25,7 +25,7 @@ A responsive and interactive **To-Do List** application built using **HTML**, **
 
 ---
 
-## 📸 Demo
+### 📸 Demo
 
 🌐 [Live Demo](https://vidushi-coder.github.io/ToDoList-WebApp/ToDoList.html) 
 
@@ -40,9 +40,9 @@ A responsive and interactive **To-Do List** application built using **HTML**, **
 
 ---
 
+```markdown
 ## 📂 Project Structure
 
-```bash
 ToDoList-App/
 ├── index.html
 ├── style.css
